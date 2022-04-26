@@ -1,0 +1,10 @@
+{
+  "name": "puppeteer-wapp-sender",
+  "version": "1.0",
+  "dependencies": {
+    "pkg": "^5.5.2",
+    "puppeteer": "^13.5.1",
+    "readline-sync": "^1.4.10"
+  },
+  "bin": "index.js"
+}
